@@ -1,6 +1,6 @@
 Standalone site for playing snake mods. 
 
-Go to here to play https://googlesnakemods.com/
+Go to here to play https://superaviation001.github.io/snakegamemodded
 
 Features:  
 Easy to use (no need for tampermonkey etc)  
